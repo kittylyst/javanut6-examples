@@ -1,4 +1,9 @@
 *.class
+target/
+log/*.log
+log/*.log.*
+tmp/
+*~
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
